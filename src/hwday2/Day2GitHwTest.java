@@ -14,4 +14,12 @@ public class Day2GitHwTest {
 	public static void StudentGrade() {
 		System.out.println("First grade");
 	}
+	
+	public static void add(int a, int b) {
+		System.out.println(a+b);
+	}
+	
+	public static void subtract(int a, int b) {
+		System.out.println(a-b);
+	}
 }
