@@ -10,4 +10,8 @@ public class Day2GitHwTest {
 		System.out.println("Name: John");
 		System.out.println("LastName: Cena");
 	}
+
+	public static void StudentGrade() {
+		System.out.println("First grade");
+	}
 }
