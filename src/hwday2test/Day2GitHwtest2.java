@@ -9,4 +9,8 @@ public class Day2GitHwtest2 {
 		System.out.println("Method created in github ");
 	}
 	
+	
+	public static void getInfo() {
+		System.out.println("test github example");
+	}
 }
